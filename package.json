@@ -1,5 +1,9 @@
 {
   "name": "fcc-learn-node-with-express",
+  "author": "ezeiru emma",
+	"description": "a tutorial to node js",
+	"keywords": ["freecodecamp", "fun", "consistent"],
+	"license": "MIT",
   "version": "0.1.0",
   "dependencies": {
     "body-parser": "^1.15.2",
